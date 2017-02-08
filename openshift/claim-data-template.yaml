@@ -6,7 +6,7 @@ metadata:
   
 parameters:
    - name: GIT_REPO
-     value: https://github.com/ranjanlahiri/fis2-karaf.git
+     value: https://github.com/rajaghan/fis2-karaf.git
      required: true
      description: "Source repository, required"
    - name: GIT_REF
